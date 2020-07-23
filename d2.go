@@ -1,8 +1,8 @@
-package ci-basic-dep2
+package ci
 
 import (
 	"fmt"
-	_ "github.com/kr/pty"
+	"github.com/kr/pty"
 )
 
 func PackageName () {
