@@ -1,4 +1,4 @@
-package ci
+package d2
 
 import (
 	"fmt"
